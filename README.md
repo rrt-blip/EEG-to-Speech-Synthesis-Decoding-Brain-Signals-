@@ -1,2 +1,7 @@
 # EEG-to-Speech-Synthesis-Decoding-Brain-Signals-
 wonder girls: Rrita Hajrizi (BGI0AY), Dilnaz Zholmaganbet (CGNS2U)
+
+### Description of the project
+This project develops deep learning models to synthesize speech directly from brain activity recordings. The goal is to create a brain-computer interface that can restore communication abilities for individuals who cannot speak due to neurological disorders or physical impairments.
+We work with the SingleWordProductionDutch dataset, which contains intracranial EEG recordings from subjects reading Dutch words aloud. The dataset provides synchronized neural signals and acoustic features from three subjects, with each contributing approximately 30,000 time-aligned samples across 101 unique words. Neural activity is captured through 1,143-dimensional feature vectors representing high-gamma band activity, while speech is characterized by 23-dimensional mel spectrograms.
+The project involves preprocessing the raw neural and acoustic data, exploring signal characteristics across subjects, and training neural network architectures to learn the mapping from brain activity to speech features. Starting with a baseline linear regression model, we develop and evaluate more sophisticated deep learning approaches. The basic implementation focuses on single-speaker models, while advanced work explores cross-speaker generalization to create systems that work across different individuals.
