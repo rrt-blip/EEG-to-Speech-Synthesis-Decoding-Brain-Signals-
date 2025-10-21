@@ -1,5 +1,6 @@
 # EEG-to-Speech-Synthesis-Decoding-Brain-Signals-
-wonder girls: Rrita Hajrizi (BGI0AY), Dilnaz Zholmaganbet (CGNS2U)
+**Group name:** wonder girls
+**Group members:** Rrita Hajrizi (BGI0AY), Dilnaz Zholmaganbet (CGNS2U)
 
 ### Description of the project
 This project develops deep learning models to synthesize speech directly from brain activity recordings. The goal is to create a brain-computer interface that can restore communication abilities for individuals who cannot speak due to neurological disorders or physical impairments.
