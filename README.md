@@ -1,5 +1,6 @@
 # EEG-to-Speech-Synthesis-Decoding-Brain-Signals-
 **Group name:** wonder girls
+
 **Group members:** Rrita Hajrizi (BGI0AY), Dilnaz Zholmaganbet (CGNS2U)
 
 ### Description of the project
